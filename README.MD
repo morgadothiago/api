@@ -19,3 +19,9 @@ Anotacoes do projeto
 ```JavaScript
 ts-node-dev 'caminho_do_arquivo_index.ts'
 ```
+
+4 -> Instalando e configurando o eslint no projeto
+
+```JavaScript
+  yarn add eslint@8
+```
